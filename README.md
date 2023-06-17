@@ -12,6 +12,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=astarothagg&show_icons=true&locale=en&layout=compact" alt="astarothagg" /></p><p>
 
-&nbsp;<img align="center" src=" https://github-readme-stats.vercel.app/api?username=astarothagg&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=bf0db9&locale=en" alt="astarothagg" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=astarothagg&" alt="astarothagg" /></p>
-
-
+&nbsp;<img align="center" src=" https://github-readme-stats.vercel.app/api?username=astarothagg&show_icons=true&theme=tokyonight&title_color=ffffff&text_color=ffffff&bg_color=bf0db9&locale=en" alt="astarothagg" /></p>
